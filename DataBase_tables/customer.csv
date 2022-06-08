@@ -1,0 +1,151 @@
+cust_id,first_name,last_name,gender,dob,address,city,state,zipcode,country,phone_num,email
+1,ADAMS,ALLEN,M,17/05/1997,3262 Euclid Avenue,Longford,Kansas,67458,United States,805-252-6879,adams@gmail.com
+2,ATKIN,ANDERSON,M,08/12/1994,2042 Andell Road,Waynesburg,Kentucky,40489,United States,615-246-6831,atkin@gmail.com
+3,THOMAS,OLIVER,M,13/05/2019,3778 Spruce Drive,New Wilmington,Pennsylvania,16142,United States,724-946-1278,thomas@gmail.com
+4,JOSHUA,CHARLIE,F,05/07/1997,4784 Roosevelt Road,Silver Lake,Wisconsin,53170,United States,620-328-3353,joshua@gmail.com
+5,JAMES,CHARLIE,M,26/01/1997,1718 Roosevelt Road,Cunningham,Kansas,67035,United States,NA,james@gmail.com
+6,WILLIAM,DANIEL,M,31/05/1995,3449 Highland Drive,Green Bay,Wisconsin,54303,United States,920-642-8144,william@gmail.com
+7,DANIEL,JAMES,M,01/08/1993,3489 White River Way,Salt Lake City,Utah,84111,United States,801-538-0576,daniel@gmail.com
+8,WILLIAM,JAMES,M,14/04/2004,2661 Woodlawn Drive,Marquette,Michigan,49855,United States,906-843-4741,william009@gmail.com
+9,DANIEL,RAFITEY,M,04/04/2012,3834 Buck Drive,Washington Island,Wisconsin,54246,United States,920-847-2246,daniel22@gmail.com
+10,CHARLIE,NA,F,18/02/2004,2944 Cerullo Road,Green Bay,Wisconsin,54303,United States,400-616-5415,charlie@gmail.com
+11,BENJAMIN,SAMUEL,M,29/11/1993,3262 Euclid Avenue,3262 Euclid Avenue,Kansas,67458,United States,800-252-6879,NA
+12,JOSEPH,GEORGE,M,01/07/2013,2042 Andell Road,Waynesburg,Kentucky,40489,United States,600-246-6831,joseph@gmail.com
+13,CALLUM,JOSEPH,M,15/04/1993,3778 Spruce Drive,New Wilmington,Pennsylvania,16142,United States,700-946-1278,callum9@gmail.com
+14,GEORGE,BENJAMIN,M,18/05/2011,4784 Roosevelt Road,Silver Lake,Wisconsin,53170,United States,608-328-3353,george5@gmail.com
+15,JAKE,ETHAN,M,14/02/2006,1718 Roosevelt Road,Cunningham,Kansas,67035,United States,600-298-9996,jake3@gmail.com
+16,ALFIE,LEWIS,F,13/01/2007,3834 Buck Drive,Green Bay,Wisconsin,54303,United States,920-600-8144,alfie6@gmail.com
+17,LUKE,MOHAMMED,M,22/10/1992,2944 Cerullo Road,Salt Lake City,Utah,84111,United States,801-500-0576,luke12@gmail.com
+18,MATTHEW,JAKE,M,17/03/2000,3262 Euclid Avenue,Marquette,Michigan,49855,United States,906-800-4741,mattew67@gmail.cm
+19,ETHAN,DYLAN,M,18/11/2019,2042 Andell Road,Washington Island,Wisconsin,54246,United States,920-800-2246,ethan8@gmail.com
+20,LEWIS,JACOB,M,29/12/2015,3778 Spruce Drive,Green Bay,Wisconsin,54303,United States,414-600-5415,lewis2@gmail.com
+21,JACOB,LUKE,M,23/09/2006,4784 Roosevelt Road,Longford,Kansas,67458,United States,805-200-6879,jacob56@gmail.com
+22,MOHAMMED,CALLUM,M,17/09/2004,1718 Roosevelt Road,Waynesburg,Kentucky,40489,United States,615-240-6831,mohammed3@gmail.com
+23,DYLAN,ALEXANDER,M,18/06/1990,3778 Spruce Drive,New Wilmington,Pennsylvania,16142,United States,724-990-1278,dylan@gmail.com
+24,ALEXANDER,MATTHEW,M,11/2/2001,4784 Roosevelt Road,Silver Lake,Wisconsin,53170,United States,620-300-3353,alex24@gmail.com
+25,RYAN,ADAMS,M,09/10/1995,1718 Roosevelt Road,Cunningham,Kansas,67035,United States,620-290-9996,ryanG5@gmail.com
+26,ADAM,TYLER,M,10/02/2021,3449 Highland Drive,Green Bay,Wisconsin,54303,United States,920-640-8144,adam38@gmail.com
+27,TYLER,HARLEY,M,17/08/1995,3489 White River Way,Salt Lake City,Utah,84111,United States,801-530-0576,tyler56@gmail.com
+28,HARVEY,NA,M,6/12/2019,2661 Woodlawn Drive,Marquette,Michigan,49855,United States,906-840-4741,harvey56@gmail.com
+29,MAX,HARVEY,M,15/06/1997,3834 Buck Drive,Washington Island,Wisconsin,54246,United States,920-890-2246,NA
+30,CAMERON,MAX,M,29/03/2013,2944 Cerullo Road,Green Bay,Wisconsin,54303,United States,400-616-5415,cameron89@gmail.com
+31,LIAM,HARRISON,M,10/03/2020,3262 Euclid Avenue,Longford,Kansas,67458,United States,800-252-6879,liam@gmail.com
+32,JAMIE,JAYDEN,F,30/05/2012,2042 Andell Road,Waynesburg,Kentucky,40489,United States,600-246-6831,jamie37@gmail.com
+33,LEO,CAMERON,M,17/12/1990,3778 Spruce Drive,New Wilmington,Pennsylvania,16142,United States,700-946-1278,leo90@gmail.com
+34,OWEN,HENRY,M,23/05/1994,4784 Roosevelt Road,Silver Lake,Wisconsin,53170,United States,600-328-3353,owen890@gmail.com
+35,CONNOR,ARCHIE,M,12/03/2002,1718 Roosevelt Road,Cunningham,Kansas,67035,United States,600-298-9996,connor23@gmail.com
+36,HARRISON,CONNOR,M,24/01/2015,3449 Highland Drive,Green Bay,Wisconsin,54303,United States,900-642-8144,NA
+37,NATHAN,JAMIE,M,08/04/2001,3489 White River Way,Salt Lake City,Utah,84111,United States,801-530-0576,nathannattie@gmail.com
+38,BEN,MUHAMMAD,M,09/08/2004,2661 Woodlawn Drive,Marquette,Michigan,49855,United States,906-840-4741,ben234@gmail.com
+39,HENRY,OSCAR,M,30/07/2016,3834 Buck Drive,Washington Island,Wisconsin,54246,United States,929-847-2246,henryh@gmail.com
+40,ARCHIE,EDWARD,F,19/03/1991,2944 Cerullo Road,Green Bay,Wisconsin,54303,United States,410-616-5415,archiea@gmail.com
+41,EDWARD,LUCAS,M,25/12/2004,3262 Euclid Avenue,Longford,Kansas,67458,United States,890-252-6879,edwarde@gmail.com
+42,MICHAEL,ISAAC,M,11/09/1997,2042 Andell Road,Waynesburg,Kentucky,40489,United States,610-246-6831,michel@gmail.com
+43,AARON,LEO,M,28/11/1995,3778 Spruce Drive,New Wilmington,Pennsylvania,16142,United States,724-940-1278,aaron@gmail.com
+44,MUHAMMAD,OWEN,M,06/07/2017,4784 Roosevelt Road,Silver Lake,Wisconsin,53170,United States,620-320-3353,muhammed@gmail.com
+45,KYLE,NATHAN,F,4/10/2007,1718 Roosevelt Road,Cunningham,Kansas,67035,United States,628-298-9996,kylie@gmail.com
+46,NOAH,MICHAEL,F,10/12/1999,3449 Highland Drive,Green Bay,Wisconsin,54303,United States,929-642-8144,noah@gmail.com
+47,OSCAR,FINLEY,M,02/12/2020,3489 White River Way,Salt Lake City,Utah,84111,United States,881-538-0576,oscar@gmail.com
+48,LUCAS,BEN,M,31/03/2006,2661 Woodlawn Drive,Marquette,Michigan,49855,United States,908-843-4741,lucas@gmail.com
+49,RHYS,AARON,M,05/08/2019,3834 Buck Drive,Washington Island,Wisconsin,54246,United States,920-845-2246,rhys@gmail.com
+50,BRADLEY,NOAH,M,30/11/2020,2944 Cerullo Road,Green Bay,Wisconsin,54303,United States,414-615-5415,bradley7@gmail.com
+51,MICHAEL,LEE,M,15/08/1992,4586 Ritter Street,HUNTSVILLE,Alabama,35802,United States,256-227-7733,michael@gmail.com
+52,DAVID,BOON,M,27/05/1994,2264 Austin Road,Houston,TEXAS,54020,United States,514-616-5410,david11@gmail.com
+53,GINO,LIM,M,9/5/1997,1749 SPRING BRANCH,HOUSTON,TEXAS,77001,United States,825-634-0922,ginlim@gmail.com
+54,HARRY,BROOK,M,13/10/2002,1297 Congress Street,El Paso,TEXAS,65805,United States,671-431-0222,harrybro12@gmail.com
+55,QUINTON,MARY,F,23/04/2010,9527 AMBERGATE LANE,FRISCO,TEXAS,75033,United States,630-036-9991,quintm@gmail.com
+56,ALIZA,JIWANI,F,19/09/2009,5213 MIDSIDE CITY,TEMPE,ARIZONA,85281,United States,438-636-0087,alizaj@gmail.com
+57,PETER,SALT,M,11/07/2017,1978 Larimer Square,Denver,Colorado,88901,United States,987-236-4126,peter14@gmail.com
+58,MARY,LORA,F,02/01/2010,1200 W HARISON STREET,ILLINOIS,CHICAGO,60607,United States,432-039-2222,maryl@gmail.com
+59,SCOTT,LEOPER,M,05/03/2020,4901 EVERGREEN ROAD,DEARBON,Michigan,48128,United States,533-269-2698,scottle@gmail.com
+60,SAM,NORTHEAST,M,14/11/1990,1789 Ocean Drive,Miami,Florida,59874,United States,659-364-3698,samnorth03@gmail.com
+61,BILLA,CHAIO,F,13/08/2013,1600 HOLLOWAY EVE,SAN FRANCISCO,CALIFORNIA,94132,United States,999-253-2692,billach@gmail.com
+62,STEVEN,FINN,M,24/05/1995,725 LYON AVENUE,WEST ROXBURY,MASSACHUSETTS,2132,United States,508-951-9820,steven@gmail.com
+63,JOSH,BAKER,M,24/02/2010,1633 SAINTS ALLEY,CLYDE,NORTH CAROLINE,28721,United States,813-610-2395,josh@gmail.com
+64,TRAVIS,SCOTT,M,14/01/1993,4202 E FOWLER AVE,TAMPA,Florida,33620,United States,428-263-4477,Travissc@gmail.com
+65,JOE,LEACH,M,26/12/1991,2687 AIRPLANE AVENUE,HENNEPIN,OKLAHOMA,73444,United States,860-917-7042,joe@gmail.com
+66,KENDAL,SELVA,F,30/03/2018,4400 UNIVERSITY DR,FAIRFAX,VIRGINIA,22030,United States,766-920-8888,Kendase@gmail.com
+67,ADAM,FINCH,M,25/11/2008,3698 PeachTree Street,Atlanta,Georgia,59878,United States,236-895-5602,adamfinch30@gmail.com
+68,TOM,MOORES,M,22/05/1994,526 POLLING FARM ROAD,OMAHA,NEBRASKA,68114,United States,402-391-7571,tom@gmail.com
+69,SAMUEL,EVANS,M,27/06/2011,4948 MASONIC DRIVE,FORT BENTON,MONTANA,59442,United States,406-622-1620,samuelevans25@gmail.com
+70,Richard,Johnson,M,24/07/2018,3456 Highland Drive,New Wilmington,Pennsylvania,74693,United States,803-252-6879,Richard07@gmail.com
+71,James,Anderson,M,19/11/1999,3456 White River Way,Silver Lake,Wisconsin,65910,United States,617-246-6731,James65@gmail.com
+72,Robert,Taylor,M,8/5/2017,2781 Woodlawn Drive,Cunningham,Kansas,39826,United States,726-946-1578,Robert67@gmail.com
+73,Barbara,Smith,F,8/9/1994,3894 Buck Drive,Green Bay,Wisconsin,34780,United States,624-328-3653,Barbara45@gmail.com
+74,Michael,Moore,M,5/3/1994,4984 Cerullo Road,Salt Lake City,Utah,23723,United States,628-298-9496,Michae04@gmail.com
+75,James,Martin,M,6/7/2016,3562 Euclid Avenue,Marquette,Michigan,86373,United States,923-642-8144,James63@gmail.com
+76,Michael,Wilson,F,31/08/2013,2642 Andell Road,Cunningham,Wisconsin,27648,United States,801-578-0576,Michael07@gmail.com
+77,James,Thomas,M,3/1/2016,3748 Roosevelt Road,Green Bay,Wisconsin,98353,United States,906-863-4741,James59@gmail.com
+78,Joseph,Smith,M,3/9/2013,4764 Spruce Drive,Salt Lake City,Kansas,54282,United States,920-847-2246,Joseph02@gmail.com
+79,James,White,M,10/6/2009,1798 Roosevelt Road,Marquette,Kentucky,54303,United States,400-617-5415,James20@gmail.com
+80,HEALY,SIGA,F,15/08/2011,300 COLLEGE PARK,DAYTON,Ohio,45469,United States,366-269-2696,gier24@gmail.com
+81,Reily,Meridth,M,21/12/2014,4352 New Avenue Park,Atlanta,New Jercy,23457,United States,987-475-8349,Reily@gmail.com
+82,Rohit,Jhonson,M,1/11/1991,56 Park Street,Grey Term,Washington,90341,United States,760-376-1298,Rohit@gmail.com
+83,Atul,Gupta,M,20/10/1993,112 Green Avenue,Green bay,Washington,2312,United States,222-333-7651,Atul@gmail.com
+84,Mark,Jimberman,M,4/9/2020,342 Buck Drive,Salt Lake City,Wisconsin,34780,United States,324-565-9087,Mark@gmail.com
+85,Robert,Thompson,M,12/12/2006,7852 Highland Drive,Fairfax,Virginia,22030,United States,378-094-8856,Robert47@gmail.com
+86,Jesica,Williams,F,27/02/1991,8934 Highway Road,Las Vegas,Los Angles,43780,United States,732-980-9965,Jesica@gmail.com
+87,Jearld,Hamsworth,M,31/08/2005,9934 Michel Hall Way,Atlanta,New Jercy,23789,United States,334-873-4577,Jerald@gmail.com
+88,Liana,Lisa,F,17/10/2002,6589 New College Road,Declathon,Kentucky,54303,United States,NA,Liana@gmail.com
+89,David,Thomas,M,5/10/2004,765 Dany's Road,Lusy,Ohio,47839,United States,768-090-9988,David56@gmail.com
+90,William,Thomas,M,11/10/2000,347 East Coast,Ecr,Los Vegas,9374,United States,345-097-2356,William78@gmail.com
+91,Jennifer,Brown,F,16/02/2002,767 Dany's Road,Omr,CALIFORNIA,67821,United States,908-834-4589,Jenifer@gmail.com
+92,John,Thompson,M,19/08/1991,876 Robert Baratheon Street,Robert Baratheon Street,New Jercy,94530,United States,233-009-4567,John34@gmail.com
+93,Charles,Miller,M,10/11/2005,367 Jein Foster,Fairfax,Kanas,400987,United States,343-090-5650,NA
+94,Robert,NA,M,1/7/1998,9872 New Military Road,Longford,Utah,29785,United States,234-456-6778,Robert65@gmail.com
+95,David,Thompson,M,18/03/2009,909 Texas Statue,Texas Statue,TEXAS,62790,United States,120-980-0099,David67@gmail.com
+96,Elizabeth,Johnson,F,5/10/2014,6987 Wills Road,Marquette,Los Vegas,54327,United States,298-045-5567,Elizebeth@gmail.com
+97,Mary,Wilson,F,18/06/1992,9123 Jeimy Memoral,Kingston,Virginia,97628,United States,239-034-4040,Marry@gmail.com
+98,David,Taylor,M,1/10/2011,1908 Linckon's Street,Linckon,New York,86628,United States,278-098-6498,David90@gmail.com
+99,Atul,Gupta,F,13/11/2000,5009 Vartican,Vartican,Michigan,45623,United States,987-093-3093,Atul@gmail..com
+100,RINO,FILLER,M,16/11/2015,4400 UNIVERSITY DR,FAIRFAX,VIRGINIA,22030,United States,433-325-3333,Rinor@gmail.com
+101,Illiana,Martin,F,22/12/2021,190 Standsford University,Atlanta,Los Vegas,9902,United States,394-045-2379,Illiana@gmail.com
+102,Martinez,Daniel,M,29/05/2000,830 Round Mountain,Austin,Nevada,78923,United States,650-202-2289,Martinez@gmail.com
+103,Thomas,John,M,25/01/2011,453 Austin Airport,Austin,Nevada,98983,United States,239-034-3923,Thomas@gmail.com
+104,Martin,John,F,5/1/1997,222 Manley Hot,Minto,Alaska,23890,United States,390-340-8832,Martin@gmail.com
+105,Miller,Richard,M,28/06/2011,837 Rampart,cold Foot,Utah,7374,United States,303-844-8083,Miller@gmail.com
+106,White,Michael,M,29/06/2013,239 Tanana,Evansville,East Coast Road,48933,United States,662-873-8902,White@gmail.com
+107,Thomas,Robert,M,28/07/1991,908 Lake Munchumia,Allakaet,Washington,9837,United States,345-094-3322,Thomas@gmail.com
+108,Johnson,Barbara,M,28/07/2001,789 Anderson Roads,Anaktuvuk Pass,Alaska,6529,United States,987-863-4363,Johnson@gmail.com
+109,Smith,Susan,M,3/12/2004,998 Nena valley,Red Dog Mine,Alaska,33749,United States,637-873-3673,Smith@gmail.com
+110,Thompson,Robert,M,16/06/2012,89 Clear valley,Kivalina,New Jercy,37467,United States,364-037-3736,Thompson@gmail.com
+111,Rodriguez,Daniel,M,5/6/1985,345 Lombard Street,Kotzebue,Florida,84732,United States,737-847-8393,Rodriguez@gmail.com
+112,White,NA,M,3/15/2000,97 Maple Street,Deering,Hawai,2345,United States,738-473-2833,White@gmail.com
+113,Wilson,William,M,1/7/1988,387 Avenue,Buckland,Georgia,9884,United States,434-334-3233,Wilson@gmail.com
+114,Lee,David,F,2/3/1990,2694 Michigan Avenue,Selawik,MONTANA,98883,United States,566-567-0796,Lee@gmail.com
+115,Jones,Richard,M,10/6/1980,726 The Strip,Noorvik,VIRGINIA,97483,United States,NA,Jones@gmail.com
+116,Taylor,John,F,8/31/1996,879 Broad Way,Kiana,CALIFORNIA,88390,United States,526-038-9832,Taylor@gmail.com
+117,Moore,John,F,11/28/2003,90 Texas Street,Shungnak,TEXAS,9874,United States,343-453-0893,Moore@gmail.com
+118,David,Miller,M,3/22/2002,543 Roy valley,Austn,Nevada,98765,United States,345-879-2345,David@gmail.com
+119,Rose,Taylor,F,6/7/1987,3456 Avenue,Buckland,Georgia,78541,United States,451-980-3456,Rose@gmail.com
+120,Monika,Geller,F,12/22/1999,2349 Standsford University,Atlanta,Los Vegas,3421,United States,765-100-8900,Monika@gmail.com
+121,joey,jonas,M,8/24/1996,10031 Lake Munchumia,Allakaet,Washington,9837,United States,123-098-3456,joey@gmail.com
+122,siya,Mathur,F,10/23/1985,54 clear valley,Kivalina,New Jercy,3987,United States,NA,siya@gmail.com
+123,Miller,Smith,M,1/25/2005,833 Pine,Atlantic,New Jercy,4523,United States,294-839-3222,Miller@gmail.com
+124,White,Thompson,M,6/13/1985,909 View,Santa Fe,New MExico,56433,United States,893-093-2987,White@gmail.com
+125,Thomas,Rodriguez,M,9/28/1989,3849 Ninth,New York,New York,6456,United States,489-094-3393,Thomas@gmail.com
+126,Johnson,White,M,2/14/2002,3292 Lake,Raleigh,North California,6758,United States,984-093-8474,Johnson@gmail.com
+127,Smith,Wilson,M,12/16/2000,902 Cedar,Fargo,North Dakota,47467,United States,293-098-3844,Smith@gmail.com
+128,Thompson,Lee,M,1/6/1996,938 Maple,Cincinnati,Ohio,7456,United States,393-975-8575,Thompson@gmail.com
+129,Rodriguez,Jones,M,10/27/1995,839 Oak,Tulsa,OKLAHOMA,95659,United States,203-039-3848,Rodriguez@gmail.com
+130,White,Taylor,M,7/9/1984,3645 Elm,Portland,Oregon,95959,United States,484-038-398,White@gmail.com
+131,Wilson,Moore,M,7/3/1987,902 Lombard Street,Philadelphia,Pennsylvania,8484,United States,394-938-0393,Wilson@gmail.com
+132,Lee,Brown,F,6/10/1982,839 Congress Street,Newport,Rhode Island,9695,United States,884-444-0394,Lee@gmail.com
+133,Jones,Williams,F,1/28/1982,9023 Creek Street,Charleston,South California,4094,United States,948-449-9303,Jones@gmail.com
+134,Taylor,Taylor,M,2/27/1992,203 Second Street,Sturgis,South Dakota,9304,United States,944-934-3453,Taylor@gmail.com
+135,Moore,NA,F,7/4/1983,114 Ocean Drive,Memphis,Tennessee,3472,United States,948-858-4933,Moore@gmail.com
+136,David,Martinez,M,4/11/2000,023 Peach Tree Street,Atlanta,Georgia,37474,United States,495-439-4044,David@gmail.com
+137,Rose,Moore,F,7/29/1991,334 Michigan Ave,Chicago,Illinois,83494,United States,283-443-8759,Rose@gmail.com
+138,Monika,Rodriguez,F,8/7/1986,230 Eight Street,Boise,Idaho,49493,United States,404-505-9090,Monika@gmail.com
+139,Miller,Williams,M,4/7/1980,9032 Snake Alley,Burlington,Lowa,93288,United States,303-404-9393,Miller@gmail.com
+140,White,Williams,M,1/7/1990,231 Washington Street,Indianpolis,Indiana,33433,United States,903-903-4948,White@gmail.com
+141,Thomas,Moore,M,1/5/1992,475 Fourth Street,Louisville,Kentucky,39383,United States,494-903-3322,Thomas@gmail.com
+142,Johnson,Miller,M,10/3/2000,3748 Bourbon Street,New Orleans,Louisiana,83899,United States,484-948-8374,Johnson@gmail.com
+143,Smith,Martin,M,9/24/1985,483 Congress Street,Portland,Maine,90393,United States,948-585-8483,Smith@gmail.com
+144,Thompson,Johnson,M,5/8/1992,920 North Charles Street,Baltimore,Maryland,82373,United States,393-484-4849,Thompson@gmail.com
+145,Rodriguez,NA,M,11/23/1989,3838 Acron Street,Boston,MASSACHUSETTS,8839,United States,484-858-3839,Rodriguez@gmail.com
+146,White,Jackson,M,4/10/1991,6758 Woodware Ave,Detroit,Michigan,39839,United States,202-393-5858,White@gmail.com
+147,Wilson,Davis,M,1/10/1988,586 Nicollet Mall,Minneapolis,Minnesota,24832,United States,443-958-9094,Wilson@gmail.com
+148,Lee,White,F,2/15/1990,685 Main Street,Tupelo,Mississippi,72732,United States,484-484-999,Lee@gmail.com
+149,Jones,Williams,F,5/4/1981,383 The Paseo,Kanas,Missouri,34788,United States,384-855-6374,Jones@gmail.com
+150,Taylor,Jones,M,11/2/1991,345 Last Chance Gulch,Helena,MONTANA,89487,United States,747-383-4848,Taylor@gmail.com
