@@ -1,0 +1,100 @@
+product_idproduct_nameproduct_categoryproduct_price
+P01       parle biscuit snack                  100
+          kellogs rice
+P02       krispies      snack                  250
+P03       oreo biscuit snack                   200
+P04       dosritos      snack                  180
+          wellness
+          cream fudge
+P05       biscuit       snack                  140
+P06       fruit guzher snack                   280
+P07       cheetos       snack                  300
+P08       takis         snack                  250
+P09       ritz          snack                  200
+P10       ruffles       snack                  180
+P11       waffers       snack                  250
+          sehora
+P12       moisturizer   cosmetics              200
+          make up
+P13       setting spray cosmetics              800
+          bumble lip
+P14       gloss         cosmetics              900
+P15       lip balm      cosmetics              450
+          lakme nail
+P16       colors        cosmetics              200
+          makeup
+P17       brushes       cosmetics              200
+P18       revnett serum cosmetics             1020
+P19       oliver perfumecosmetics             2500
+          lakme
+P20       foundation    cosmetics              900
+P21       jam           food                   300
+P22       bread         food                   200
+P23       rice          food                   500
+P24       dal           food                   280
+P25       noodles       food                   180
+P26       meat          food                   690
+P27       oil           food                   290
+P28       pasta         food                   250
+P29       salad         food                   150
+P30       sauce         food                   300
+P31       cereal        food                   450
+                        canned
+P32       coke          beverages              100
+                        canned
+P33       fizz          beverages                80
+          raw pressery canned
+P34       mango         beverages              240
+          raw pressery canned
+P35       blueberry     beverages              260
+                        canned
+P36       cold coffee   beverages              340
+                        canned
+P37       aura bora     beverages              450
+                        canned
+P38       party can     beverages              540
+                        canned
+P39       triple fuse   beverages              430
+P40       milk          diary products           65
+P41       cheese        diary products           95
+P42       butter        diary products         105
+P43       yogurt        diary products         120
+P44       lassi         diary products         150
+P45       milk powder diary products           280
+P46       spoon         cutlery items          300
+P47       fork          cutlery items          280
+P48       knife         cutlery items          150
+P49       chopsticks    cutlery items            45
+P50       skewer        cutlery items            60
+          ceramic
+P51       glasses       cutlery items          800
+P52       ceramic platescutlery items          700
+P53       sweater       garments              1500
+P54       skirt         garments              2300
+P55   pajamas        garments     5400
+
+P56   shirt          garments      500
+P57   swim wears     garments     3500
+P58   thermal wear   garments     1500
+P59   yoga wear      garments     1800
+P60   waist coat     garments     2500
+P61   over coat      garments     5400
+P62   apple          fruits         60
+P63   orange         fruits         80
+P64   blue berry     fruits         80
+P65   rasp berry     fruits        100
+P66   avacado        fruits         80
+P67   banana         fruits         90
+P68   tangerine      fruits         70
+P69   potato         vegetables     60
+P70   carrot         vegetables     80
+P71   brinjal        vegetables     80
+P72   chilly         vegetables     50
+P73   mint           vegetables     90
+P74   tomato         vegetables     60
+P75   broccoli       vegetables     50
+P76   onion          vegetables     50
+P77   peas           vegetables     50
+P78   pumpkin        vegetables     60
+P79   cabbage        vegetables     50
+

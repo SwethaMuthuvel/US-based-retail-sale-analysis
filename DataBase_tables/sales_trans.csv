@@ -1,0 +1,96 @@
+S01,1,218654,Walmart Supercenter-Kansas,P01,parle biscuit-snack,100,2,200,2022-02-15,2022,February
+S02,2,289415,Walmart Supercenter-Kansas,P02,parle biscuit-snack,250,3,750,2020-04-14,2020,April
+S03,3,272682,Walmart Supercenter-Kansas,P03,parle biscuit-snack,200,4,800,2020-11-13,2020,November
+S04,4,275394,Walmart Supercenter-Kansas,P04,parle biscuit-snack,180,2,360,2021-08-06,2021,August
+S06,6,296483,Walmart Supercenter-Kansas,P06,parle biscuit-snack,280,5,1400,2021-02-27,2021,February
+S07,7,214563,Walmart Supercenter-Kansas,P07,kellogs rice krispies-snack,300,6,1800,2021-04-18,2021,April
+S08,8,284566,Walmart Supercenter-Kansas,P08,kellogs rice krispies-snack,250,7,1750,2021-03-12,2021,March
+S09,9,274681,Walmart Supercenter-Kansas,P09,kellogs rice krispies-snack,200,2,400,2022-02-08,2022,February
+S10,10,218654,Walmart Supercenter-Kansas,P01,kellogs rice krispies-snack,100,4,400,2021-02-07,2021,February
+S100,100,274681,Walmart Supercenter-Kansas,P35,kellogs rice krispies-snack,260,5,1300,2021-10-26,2021,October
+S101,101,272682,Walmart Supercenter-Kansas,P36,oreo biscuit-snack,340,5,1700,2021-04-20,2021,April
+S102,102,275394,Bimbo bakeries-Commerce city,P37,oreo biscuit-snack,450,6,2700,2021-04-02,2021,April
+S104,104,296483,Bimbo bakeries-Commerce city,P39,oreo biscuit-snack,430,6,2580,2021-07-11,2021,July
+S106,106,296483,Bimbo bakeries-Commerce city,P41,oreo biscuit-snack,95,7,665,2021-12-02,2021,December
+S107,107,214563,Bimbo bakeries-Commerce city,P42,oreo biscuit-snack,105,7,735,2021-10-12,2021,October
+S108,108,284566,Bimbo bakeries-Commerce city,P43,dosritos-snack,120,7,840,2021-03-27,2021,March
+S109,109,274681,Bimbo bakeries-Commerce city,P44,dosritos-snack,150,8,1200,2021-01-15,2021,January
+S11,1,289415,Bimbo bakeries-Commerce city,P02,dosritos-snack,250,5,1250,2021-09-05,2021,September
+S12,2,272682,Bimbo bakeries-Commerce city,P03,dosritos-snack,200,8,1600,2022-03-28,2022,March
+S13,3,275394,Bimbo bakeries-Commerce city,P04,fruit guzher-snack,180,7,1260,2021-02-04,2021,February
+S15,5,296483,Bimbo bakeries-Commerce city,P06,fruit guzher-snack,280,3,840,2020-07-21,2020,July
+S16,6,214563,Bimbo bakeries-Commerce city,P07,fruit guzher-snack,300,4,1200,2020-04-28,2020,April
+S17,7,284566,Wilson factory-Ada,P08,fruit guzher-snack,250,9,2250,2021-06-06,2021,June
+S18,8,274681,Wilson factory-Ada,P09,cheetos-snack,200,7,1400,2020-07-09,2020,July
+S19,9,218654,Wilson factory-Ada,P10,cheetos-snack,180,8,1440,2020-12-17,2020,December
+S20,10,289415,Wilson factory-Ada,P11,cheetos-snack,250,5,1250,2021-12-04,2021,December
+S21,21,272682,Wilson factory-Ada,P12,cheetos-snack,200,6,1200,2021-02-18,2021,February
+S22,22,275394,Wilson factory-Ada,P13,takis-snack,800,2,1600,2020-11-28,2020,November
+S24,24,296483,Wilson factory-Ada,P15,takis-snack,450,4,1800,2022-04-05,2022,April
+S25,25,214563,Wilson factory-Ada,P16,takis-snack,200,7,1400,2021-10-17,2021,October
+S26,26,284566,Wilson factory-Ada,P17,takis-snack,200,8,1600,2021-02-09,2021,February
+S27,27,274681,Wilson factory-Ada,P18,takis-snack,1020,9,9180,2021-10-23,2021,October
+S28,28,218654,Wilson factory-Ada,P19,ritz-snack,2500,2,5000,2020-11-27,2020,November
+S29,29,289415,Wilson factory-Ada,P20,ritz-snack,900,9,8100,2021-07-24,2021,July
+S30,30,272682,Wilson factory-Ada,P21,ritz-snack,300,6,1800,2022-03-25,2022,March
+S31,31,275394,Office Depot-Seattle,P22,ritz-snack,200,7,1400,2021-11-04,2021,November
+S33,33,296483,Office Depot-Seattle,P24,ritz-snack,280,2,560,2020-06-16,2020,June
+S34,34,214563,Office Depot-Seattle,P25,ruffles-snack,180,3,540,2021-07-01,2021,July
+S35,35,284566,Office Depot-Seattle,P26,ruffles-snack,690,4,2760,2022-05-29,2022,May
+S36,36,274681,Office Depot-Seattle,P27,waffers-snack,290,5,1450,2020-10-21,2020,October
+S37,37,218654,Office Depot-Seattle,P28,waffers-snack,250,7,1750,2021-01-30,2021,January
+S38,38,289415,Office Depot-Seattle,P29,sehora moisturizer-cosmetics,150,6,900,2021-04-03,2021,April
+S39,39,272682,Office Depot-Seattle,P30,sehora moisturizer-cosmetics,300,2,600,2021-06-12,2021,June
+S40,40,275394,Office Depot-Seattle,P31,sehora moisturizer-cosmetics,450,8,3600,2021-05-19,2021,May
+S42,42,296483,Office Depot-Seattle,P33,make up setting spray-cosmetics,80,2,160,2021-01-01,2021,January
+S43,43,214563,Office Depot-Seattle,P25,make up setting spray-cosmetics,180,1,180,2021-09-16,2021,September
+S44,44,284566,Office Depot-Seattle,P26,make up setting spray-cosmetics,690,1,690,2021-08-04,2021,August
+S45,45,274681,Office Depot-Seattle,P27,lip balm-cosmetics,290,3,870,2020-10-15,2020,October
+S46,46,218654,Yankee candle company-south deer field,P50,lip balm-cosmetics,60,4,240,2021-03-06,2021,March
+S47,47,289415,Yankee candle company-south deer field,P51,lip balm-cosmetics,800,4,3200,2022-01-07,2022,January
+S48,48,272682,Yankee candle company-south deer field,P52,lakme nail colors-cosmetics,700,5,3500,2022-03-26,2022,March
+S49,49,275394,Yankee candle company-south deer field,P53,lakme nail colors-cosmetics,1500,6,9000,2021-02-08,2021,February
+S51,51,296483,Yankee candle company-south deer field,P55,makeup brushes-cosmetics,5400,8,43200,2020-07-28,2020,July
+S52,52,214563,Yankee candle company-south deer field,P56,makeup brushes-cosmetics,500,7,3500,2020-08-12,2020,August
+S53,53,284566,Yankee candle company-south deer field,P57,revnett serum-cosmetics,3500,8,28000,2022-04-02,2022,April
+S54,54,274681,Yankee candle company-south deer field,P58,revnett serum-cosmetics,1500,9,13500,2021-02-02,2021,February
+S55,55,218654,Yankee candle company-south deer field,P66,oliver perfume-cosmetics,80,2,160,2022-04-09,2022,April
+S56,56,289415,Yankee candle company-south deer field,P67,lakme foundation-cosmetics,90,4,360,2021-01-05,2021,January
+S57,57,272682,Yankee candle company-south deer field,P68,jam-food,70,5,350,2020-11-10,2020,November
+S58,58,275394,Yankee candle company-south deer field,P69,bread-food,60,6,360,2021-11-20,2021,November
+S60,60,296483,fate's food market-Remus,P71,dal-food,80,2,160,2022-03-12,2022,March
+S61,61,214563,fate's food market-Remus,P72,noodles-food,50,3,150,2022-02-25,2022,February
+S62,62,284566,fate's food market-Remus,P66,noodles-food,80,4,320,2022-05-09,2022,May
+S63,63,274681,fate's food market-Remus,P67,meat-food,90,7,630,2022-05-02,2022,May
+S64,64,218654,fate's food market-Remus,P01,meat-food,100,9,900,2021-03-15,2021,March
+S65,65,289415,fate's food market-Remus,P02,oil-food,250,8,2000,2020-12-26,2020,December
+S66,66,272682,fate's food market-Remus,P03,oil-food,200,6,1200,2022-01-04,2022,January
+S67,67,275394,fate's food market-Remus,P04,pasta-food,180,2,360,2020-12-04,2020,December
+S69,69,296483,fate's food market-Remus,P06,salad-food,280,1,280,2020-07-13,2020,July
+S70,70,214563,fate's food market-Remus,P07,sauce-food,300,2,600,2021-06-19,2021,June
+S71,71,284566,fate's food market-Remus,P08,cereal-food,250,3,750,2020-08-16,2020,August
+S72,72,274681,fate's food market-Remus,P09,fizz-canned beverages,200,1,200,2022-04-29,2022,April
+S73,73,218654,Kellogs corporate-Battle creek,P01,raw pressery blueberry-canned beverages,100,2,200,2021-03-08,2021,March
+S74,74,289415,Kellogs corporate-Battle creek,P02,cold coffee-canned beverages,250,4,1000,2020-08-26,2020,August
+S75,75,272682,Kellogs corporate-Battle creek,P03,aura bora-canned beverages,200,1,200,2020-03-26,2020,March
+S76,76,274681,Kellogs corporate-Battle creek,P09,triple fuse-canned beverages,200,3,600,2020-05-26,2020,May
+S77,77,218654,Kellogs corporate-Battle creek,P01,cheese-diary products,100,4,400,2022-06-01,2022,June
+S78,78,289415,Kellogs corporate-Battle creek,P02,butter-diary products,250,5,1250,2021-02-17,2021,February
+S79,79,272682,Kellogs corporate-Battle creek,P03,yogurt-diary products,200,1,200,2020-08-14,2020,August
+S80,80,275394,Kellogs corporate-Battle creek,P04,lassi-diary products,180,1,180,2021-11-16,2021,November
+S82,72,296483,Kellogs corporate-Battle creek,P06,skewer-cutlery items,280,2,560,2021-02-01,2021,February
+S83,73,214563,Kellogs corporate-Battle creek,P07,ceramic glasses-cutlery items,300,2,600,2021-04-07,2021,April
+S84,74,284566,Kellogs corporate-Battle creek,P08,ceramic plates-cutlery items,250,2,500,2022-02-28,2022,February
+S85,75,284566,Crayola LLC company-Pennsylvania,P08,sweater-garments,250,2,500,2020-10-14,2020,October
+S86,76,274681,Crayola LLC company-Pennsylvania,P09,pajamas-garments,200,3,600,2021-03-01,2021,March
+S87,77,218654,Crayola LLC company-Pennsylvania,P10,shirt-garments,180,4,720,2022-03-13,2022,March
+S88,78,289415,Crayola LLC company-Pennsylvania,P11,swim wears-garments,250,3,750,2020-08-13,2020,August
+S89,79,272682,Crayola LLC company-Pennsylvania,P12,thermal wear-garments,200,4,800,2021-08-15,2021,August
+S90,80,275394,Crayola LLC company-Pennsylvania,P13,avacado-fruits,800,3,2400,2020-06-30,2020,June
+S92,92,296483,Crayola LLC company-Pennsylvania,P15,avacado-fruits,450,3,1350,2020-07-22,2020,July
+S93,93,214563,Crayola LLC company-Pennsylvania,P16,banana-fruits,200,3,600,2020-07-26,2020,July
+S94,94,284566,Crayola LLC company-Pennsylvania,P17,banana-fruits,200,3,600,2020-08-30,2020,August
+S95,95,274681,Crayola LLC company-Pennsylvania,P18,tangerine-fruits,1020,4,4080,2021-10-27,2021,October
+S96,96,272682,Crayola LLC company-Pennsylvania,P12,potato-vegetables,200,4,800,2021-07-13,2021,July
+S97,97,275394,Crayola LLC company-Pennsylvania,P13,brinjal-vegetables,800,4,3200,2021-08-04,2021,August
+S99,99,296483,Crayola LLC company-Pennsylvania,P15,chilly-vegetables,450,5,2250,2021-10-15,2021,October
