@@ -1,5 +1,5 @@
 # US-based-retail-sale-analysis
-Technology use for this project has 
+Technology used for this project
 1.unix
 2.MySql
 3.Python
